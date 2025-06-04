@@ -2,14 +2,14 @@
 
 **`Engenharia de Softwares e Análise de Dados`**
 
-Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e atualmente sou graduando do 2º período em Sistemas para Internet, na Universidade Católica de Pernambuco. Sou apaixonado por pesquisa científica, saúde e tecnologia. Pretendo Aprofundar meus conhecimentos em Análise de Dados e Bioinformática e Bioestatística. Fique à vontade para entrar em contato comigo!
+Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e atualmente sou graduando do 2º período em Sistemas para Internet, na Universidade Católica de Pernambuco. Sou apaixonado por pesquisa científica, saúde e tecnologia. Pretendo aprofundar meus conhecimentos em Análise de Dados, Bioinformática e Bioestatística. Fique à vontade para entrar em contato comigo!
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="(https://www.linkedin.com/in/enfcarlosnascimento">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
