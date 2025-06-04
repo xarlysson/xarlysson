@@ -2,7 +2,7 @@
 
 **`Engenharia de Softwares e Análise de Dados`**
 
-Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e atualmente sou graduando do 2º período em Sistemas para Internet, na Universidade Católica de Pernambuco. Sou apaixonado por pesquisa científica, saúde e tecnologia. Pretendo aprofundar meus conhecimentos em Análise de Dados, Bioinformática e Bioestatística. Fique à vontade para entrar em contato comigo!
+Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e atualmente graduando do 2º período em Sistemas para Internet, na Universidade Católica de Pernambuco. Sou apaixonado por pesquisa científica, saúde e tecnologia. Pretendo aprofundar meus conhecimentos em Análise de Dados, Bioinformática e Bioestatística. Fique à vontade para entrar em contato comigo!
 
 <p align="left">
     <a href="(https://www.linkedin.com/in/enfcarlosnascimento">
