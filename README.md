@@ -88,13 +88,6 @@ Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -106,28 +99,12 @@ Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />
 <br/>
 <br/>
 
@@ -141,7 +118,6 @@ Olá, me chamo Carlos Nascimento, sou de Recife-PE. Sou Bacharel em Enfermagem e
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Carlos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
